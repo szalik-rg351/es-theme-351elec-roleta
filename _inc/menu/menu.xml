@@ -6,28 +6,28 @@
         <menuText name="menutitle">
             <fontPath>./_inc/fonts/ubuntu_bold.ttf</fontPath>
             <fontSize>0.044</fontSize>
-            <color>FAFAFA</color>
+            <color>fe0303</color>
         </menuText>
 
          <menuText name="menufooter">
             <fontPath>./_inc/fonts/ubuntu_medium.ttf</fontPath>
-            <fontSize>0.02</fontSize>
+            <fontSize>0.04</fontSize>
             <color>777777FF</color>
         </menuText>
 
        <menuText name="menutext">
             <fontPath>./_inc/fonts/ubuntu_medium.ttf</fontPath>
-            <fontSize>0.035</fontSize>
+            <fontSize>0.046</fontSize>
             <color>969696</color>
             <separatorColor>323232FF</separatorColor>
-            <selectorColor>ffff00</selectorColor>
-            <selectorColorEnd>ffff00</selectorColorEnd>
-            <selectedColor>>fffff</selectedColor>
+            <selectorColor>000000</selectorColor>
+            <selectorColorEnd>000000</selectorColorEnd>
+            <selectedColor>fe0303</selectedColor>
         </menuText>
 
          <menuTextSmall name="menutextsmall">
             <fontPath>./_inc/fonts/ubuntu_medium.ttf</fontPath>
-            <fontSize>0.02</fontSize>
+            <fontSize>0.033</fontSize>
             <color>deec00</color>
         </menuTextSmall>
 

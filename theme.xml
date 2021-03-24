@@ -41,12 +41,12 @@ Carousel wheel and main menu background
 <carousel name="systemcarousel">
         <zIndex>43</zIndex>	      
         <type>vertical_wheel</type>
-        <pos>-0.216 0</pos>
+        <pos>-0.319 0</pos>
         <size>1 1</size>
         <logoScale>1.03</logoScale>
-        <logoSize>0.15 0.08</logoSize>
+        <logoSize>0.30 0.23</logoSize>
         <color>00000000</color>
-        <maxLogoCount>13</maxLogoCount>
+        <maxLogoCount>3</maxLogoCount>
         <logoRotation>-4</logoRotation>
 		<logoRotationOrigin>-4.0 0.5</logoRotationOrigin>
 		<logoAlignment>center</logoAlignment>            
@@ -59,11 +59,11 @@ Carousel wheel and main menu background
          <path>./_inc/images/overlay.png</path>
       </image>                    
       <text name="systemInfo">     
-         <pos>0.33 0.931</pos>
+         <pos>0.33 0.914</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>000000</color>
          <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
-	     <fontSize>0.032</fontSize>
+	     <fontSize>0.045</fontSize>
          <zIndex>3</zIndex>	     
       </text>            
    </view>
